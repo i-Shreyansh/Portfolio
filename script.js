@@ -15,6 +15,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 var typed = new Typed('#element', {
-    strings: ['.......', 'Data Science', 'Image Processing', 'Machine Leaning', '&amp; Deep Learning.'],
+    strings: ['.......', 'Data Science', 'Image Processing', 'Machine Learning', '&amp; Deep Learning.'],
     typeSpeed: 50,
 });
